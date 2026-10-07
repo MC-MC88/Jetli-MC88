@@ -101,8 +101,7 @@ Vérifiez que vous avez bien cliqué sur **AR** (et non sur **FR**). Le bouton i
 **La page me parle en arabe au premier chargement ?**  
 Vous avez probablement visité une version arabe lors d'une session précédente. Cliquez sur **FR** en haut à droite, et votre choix sera retenu pour la suite.
 
-**Le lien final ne s'ouvre pas ?**  
-Le bouton final doit mener au projet réel. Si rien ne se passe, ouvrez-le dans un nouvel onglet manuellement — ou vérifiez que JavaScript n'est pas bloqué sur votre navigateur.
+
 
 ---
 
